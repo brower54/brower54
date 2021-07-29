@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brower54&label=Profile%20views&color=7e43d6&style=flat" alt="brower54" /> </p>
 
-- 🌱 I’m currently learning **the course "Backend Python"**
+- 🌱 I’m currently learning courses for my improving and parallel creates own projects.
 - 🎓 I am interested in a Python junior developer vacancy.
 
 My tech stack:
