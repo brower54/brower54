@@ -7,7 +7,7 @@
 - 🎓 I am interested in a Python junior developer vacancy.
 
 My tech stack:
-  - Python 3.5 +
+  - Python 3.6 +
   - SQL (PostgreSQL, MySQL)
   - Django
   - Git
