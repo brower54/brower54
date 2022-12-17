@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Zaur</h1>
-<h3 align="center">Python Junior Developer</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brower54&label=Profile%20views&color=7e43d6&style=flat" alt="brower54" /> </p>
 
-- 🌱 I’m currently learning courses for my improving and parallel creates own projects.
-- 🎓 I am interested in a Python junior developer vacancy.
+- 🌱 I’m currently working in brand protection IT Company.
 
 My tech stack:
-  - Python 3.6 +
+  - Python
   - SQL (PostgreSQL, MySQL)
-  - Django
+  - Google Data Studio
+  - Retool 
   - Git
   - bash
-  - SQLAlchemy/Django ORM
   - OOP
 
 - 📫 How to reach me **zed.work@mail.ru**
